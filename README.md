@@ -10,10 +10,12 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/sonusindhu/](https://www.linkedin.com/in/sonusindhu/)
 
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonusindhu&show_icons=true&locale=en" alt="sonusindhu" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonusindhu&show_icons=true&locale=en&layout=compact" alt="sonusindhu" />
-</p>
+<a href="http://sonusindhu.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonusindhu&show_icons=true&locale=en&layout=compact" />
+</a>
+<a href="http://sonusindhu.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonusindhu&show_icons=true&locale=en&layout=compact" />
+</a>
 
 ### ✍️ Love reading quotes?
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
