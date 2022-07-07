@@ -13,6 +13,9 @@
 <a href="http://sonusindhu.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonusindhu&show_icons=true&locale=en&layout=compact" />
 </a>
+
+### 🌱 Most used langulage
+
 <a href="http://sonusindhu.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonusindhu&show_icons=true&locale=en&layout=compact" />
 </a>
