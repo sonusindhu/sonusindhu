@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Supply Chain Portal**
 - 🌱 I’m currently learning **react, svelt, nodejs**
-- 👯 I’m looking to collaborate on [Supply Chain Portal](https://github.com/sonusindhu/scp-portal-app)
+- 👯 I’m looking to collaborate on Front-end library
 - 👨‍💻 All of my projects are available at [http://sonusindhu.com](http://sonusindhu.com)
 - 💬 Ask me about **Javascript, Typescript, Angular, React**
 - 📫 How to reach me **sonusindhu10@yahoo.com**
