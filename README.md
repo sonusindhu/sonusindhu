@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Supply Chain Portal**
 - 🌱 I’m currently learning **react, svelt, nodejs**
 - 👯 I’m looking to collaborate on Front-end library
-- 👨‍💻 All of my projects are available at [http://sonusindhu.com](http://sonusindhu.com)
+- 👨‍💻 Personal portfolio [http://sonusindhu.com](http://sonusindhu.com)
 - 💬 Ask me about **Javascript, Typescript, Angular, React**
 - 📫 How to reach me **sonusindhu10@yahoo.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/sonusindhu/](https://www.linkedin.com/in/sonusindhu/)
