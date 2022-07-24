@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sonu Sindhu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Sonu Sindhu</h1>
+<h3>A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Supply Chain Portal**
 - 🌱 I’m currently learning **react, svelt, nodejs**
@@ -19,9 +19,6 @@
 <a href="http://sonusindhu.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonusindhu&show_icons=true&locale=en&layout=compact" />
 </a>
-
-### ✍️ Love reading quotes?
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 ![](https://komarev.com/ghpvc/?username=sonusindhu)
