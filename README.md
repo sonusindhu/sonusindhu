@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Supply Chain Portal**
 - 🌱 I’m currently learning **react, svelt, nodejs**
-- 👯 I’m looking to collaborate on Front-end library
+- 👯 I’m looking to collaborate on React, Angular, Typescript 
 - 👨‍💻 Personal portfolio [http://sonusindhu.com](http://sonusindhu.com)
 - 💬 Ask me about **Javascript, Typescript, Angular, React**
 - 📫 How to reach me **sonusindhu10@yahoo.com**
@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonusindhu&show_icons=true&locale=en&layout=compact" />
 </a>
 
-### 🌱 Most Used
+### 🌱 Most Used Languages
 
 <a href="http://sonusindhu.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonusindhu&show_icons=true&locale=en&layout=compact" />
