@@ -2,7 +2,7 @@
 <h3>A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Supply Chain Portal**
-- 🌱 I’m currently learning **react, svelt, nodejs**
+- 🌱 I’m currently learning **react, nodejs**
 - 👯 I’m looking to collaborate on React, Angular, Typescript 
 - 👨‍💻 Personal portfolio [http://sonusindhu.com](http://sonusindhu.com)
 - 💬 Ask me about **Javascript, Typescript, Angular, React**
