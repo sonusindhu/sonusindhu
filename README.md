@@ -9,7 +9,6 @@
 - 📫 How to reach me **sonusindhu10@yahoo.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/sonusindhu/](https://www.linkedin.com/in/sonusindhu/)
 
-
 <a href="http://sonusindhu.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonusindhu&show_icons=true&locale=en&layout=compact" />
 </a>
