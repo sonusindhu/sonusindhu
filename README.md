@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sonu Sindhu</h1>
 <h3>A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Supply Chain Portal**
+- 🔭 I’m currently working on **Supply Chain Portal**, **Warehouse**, **logistics**
 - 🌱 I’m currently learning **react, nodejs**
 - 👯 I’m looking to collaborate on React, Angular, Typescript 
 - 👨‍💻 Personal portfolio [http://sonusindhu.com](http://sonusindhu.com)
