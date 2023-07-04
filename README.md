@@ -8,8 +8,3 @@
 - 💬 Ask me about **Javascript, Typescript, Angular, React**
 - 📫 How to reach me **sonusindhu10@yahoo.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/sonusindhu/](https://www.linkedin.com/in/sonusindhu/)
-
----
-![](https://komarev.com/ghpvc/?username=sonusindhu)
-
-![](https://hit.yhype.me/github/profile?user_id=4919309)
