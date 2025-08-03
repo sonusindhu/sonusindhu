@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on React, Angular, Typescript 
 - 👨‍💻 Personal portfolio [http://sonusindhu.com](http://sonusindhu.com)
 - 💬 Ask me about **Javascript, Typescript, Angular, React**
-- 📫 How to reach me **sonusindhu10@yahoo.com**
+- 📫 How to reach me **sonupng@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/sonusindhu/](https://www.linkedin.com/in/sonusindhu/)
 - 📄 I'm on stackoverflow [https://stackoverflow.com/users/2533926/sonu-sindhu](https://stackoverflow.com/users/2533926/sonu-sindhu)
