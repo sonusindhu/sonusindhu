@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sonu</h1>
-<p>Front-end Lead Engineer with 10+ years of experience working with JavaScript, Angular, Angularjs, Typescript, Rxjs, Ngrx, Reactjs and more related technologies. I have good hand working experience with Back-end technology like PHP(Laravel, CakePHP), Nodejs </p>
+<p>Senior Lead Engineer with 10+ years of experience working with JavaScript, Angular, React, Node, Typescript, Rxjs, Ngrx and more related technologies. I have good hand working experience with Back-end technology like PHP(Laravel, CakePHP), Nodejs </p>
 
 - 🔭 I’m currently working on **Supply Chain Portal**, **Warehouse**, **logistics**
 - 🌱 I’m currently learning **react, nodejs, .net**
